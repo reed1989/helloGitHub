@@ -1,4 +1,6 @@
 *.class
 */target/*
-.classpath
+*.classpath
 */.settings/*
+
+hellogit/.settings/*
